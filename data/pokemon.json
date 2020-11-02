@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Weedle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "price": 39,
+    "stock": 32,
+    "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
+  },
+  {
+    "name": "Skiploom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+    "price": 119,
+    "stock": 10,
+    "description": "The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down."
+  },
+  {
+    "name": "Pidgeot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "price": 216,
+    "stock": 395,
+    "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP."
+  },
+  {
+    "name": "Wobbuffet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+    "price": 142,
+    "stock": 285,
+    "description": "It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike."
+  },
+  {
+    "name": "Victreebel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "price": 221,
+    "stock": 155,
+    "description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
+  },
+  {
+    "name": "Quilava",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+    "price": 142,
+    "stock": 190,
+    "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back."
+  },
+  {
+    "name": "Jumpluff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+    "price": 207,
+    "stock": 30,
+    "description": "Once it catches the wind, it deft­ ly controls its cotton-puff spores to float, even around the world."
+  },
+  {
+    "name": "Tyrogue",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+    "price": 42,
+    "stock": 210,
+    "description": "It is always bursting with en­ ergy. To make it­ self stronger, it keeps on fighting even if it loses."
+  },
+  {
+    "name": "Seedot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png",
+    "price": 44,
+    "stock": 40,
+    "description": "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON’s body becomes."
+  },
+  {
+    "name": "Weepinbell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "price": 137,
+    "stock": 64,
+    "description": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID."
+  },
+  {
+    "name": "Pineco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+    "price": 58,
+    "stock": 72,
+    "description": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it."
+  },
+  {
+    "name": "Shroomish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+    "price": 59,
+    "stock": 45,
+    "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves."
+  },
+  {
+    "name": "Metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "price": 72,
+    "stock": 99,
+    "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+  },
+  {
+    "name": "Magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "price": 40,
+    "stock": 100,
+    "description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+  },
+  {
+    "name": "Ivysaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "price": 142,
+    "stock": 130,
+    "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+  },
+  {
+    "name": "Voltorb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "price": 66,
+    "stock": 104,
+    "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people."
+  },
+  {
+    "name": "Dustox",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png",
+    "price": 173,
+    "stock": 316,
+    "description": "DUSTOX is instinctively drawn to light. Swarms of this POKéMON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food."
+  },
+  {
+    "name": "Moltres",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "price": 261,
+    "stock": 600,
+    "description": "It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames."
+  },
+  {
+    "name": "Croconaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+    "price": 142,
+    "stock": 250,
+    "description": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth."
+  },
+  {
+    "name": "Spinarak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+    "price": 50,
+    "stock": 85,
+    "description": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+  },
+  {
+    "name": "Typhlosion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+    "price": 240,
+    "stock": 795,
+    "description": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+  },
+  {
+    "name": "Totodile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+    "price": 63,
+    "stock": 95,
+    "description": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful."
+  },
+  {
+    "name": "Bayleef",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+    "price": 142,
+    "stock": 158,
+    "description": "The buds that ring its neck give off a spicy aroma that perks people up."
+  },
+  {
+    "name": "Chinchou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
+    "price": 66,
+    "stock": 120,
+    "description": "It shoots positive and negative elec­ tricity between the tips of its two antennae and zaps its enemies."
+  },
+  {
+    "name": "Ledyba",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+    "price": 53,
+    "stock": 108,
+    "description": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group."
+  },
+  {
+    "name": "Kabuto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "price": 71,
+    "stock": 115,
+    "description": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago."
+  },
+  {
+    "name": "Azumarill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+    "price": 189,
+    "stock": 285,
+    "description": "By keeping still and listening in­ tently, it can tell what is in even wild, fast- moving rivers."
+  },
+  {
+    "name": "Dewgong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "price": 166,
+    "stock": 1200,
+    "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
+  },
+  {
+    "name": "Nuzleaf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
+    "price": 119,
+    "stock": 280,
+    "description": "NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This POKéMON dislikes having its long nose pinched."
+  },
+  {
+    "name": "Nidorino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "price": 128,
+    "stock": 195,
+    "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom."
+  },
+  {
+    "name": "Doduo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "price": 62,
+    "stock": 392,
+    "description": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
+  },
+  {
+    "name": "Dragonair",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "price": 147,
+    "stock": 165,
+    "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions."
+  },
+  {
+    "name": "Omanyte",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "price": 71,
+    "stock": 75,
+    "description": "Although long extinct, in rare cases, it can be genetically resurrected from fossils."
+  },
+  {
+    "name": "Natu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+    "price": 64,
+    "stock": 20,
+    "description": "Because its wings aren't yet fully grown, it has to hop to get around. It is always star­ ing at something."
+  },
+  {
+    "name": "Combusken",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+    "price": 142,
+    "stock": 195,
+    "description": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON’s legs possess both speed and power, enabling it to dole out ten kicks in one second."
+  },
+  {
+    "name": "Donphan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+    "price": 175,
+    "stock": 1200,
+    "description": "It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house."
+  },
+  {
+    "name": "Phanpy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+    "price": 66,
+    "stock": 335,
+    "description": "It swings its long snout around play­ fully, but because it is so strong, that can be dan­ gerous."
+  },
+  {
+    "name": "Eevee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "price": 65,
+    "stock": 65,
+    "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs."
+  },
+  {
+    "name": "Seadra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "price": 154,
+    "stock": 250,
+    "description": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
+  },
+  {
+    "name": "Pupitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+    "price": 144,
+    "stock": 1520,
+    "description": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain."
+  },
+  {
+    "name": "Remoraid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+    "price": 60,
+    "stock": 120,
+    "description": "It squirts water forcefully from its mouth to shoot down flying prey."
+  },
+  {
+    "name": "Treecko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+    "price": 62,
+    "stock": 50,
+    "description": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail."
+  },
+  {
+    "name": "Nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "price": 55,
+    "stock": 70,
+    "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns."
+  },
+  {
+    "name": "Magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "price": 65,
+    "stock": 60,
+    "description": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
+  },
+  {
+    "name": "Igglybuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+    "price": 42,
+    "stock": 10,
+    "description": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop."
+  },
+  {
+    "name": "Magmar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "price": 173,
+    "stock": 445,
+    "description": "Its body always burns with an orange glow that enables it to hide perfectly among flames."
+  },
+  {
+    "name": "Celebi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+    "price": 270,
+    "stock": 50,
+    "description": "This POKéMON wan­ ders across time. Grass and trees flourish in the forests in which it has appeared."
+  },
+  {
+    "name": "Girafarig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+    "price": 159,
+    "stock": 415,
+    "description": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite."
+  },
+  {
+    "name": "Tauros",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "price": 172,
+    "stock": 884,
+    "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
+  },
+  {
+    "name": "Poliwag",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "price": 60,
+    "stock": 124,
+    "description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand."
+  },
+  {
+    "name": "Graveler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "price": 137,
+    "stock": 1050,
+    "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+  },
+  {
+    "name": "Pelipper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
+    "price": 154,
+    "stock": 280,
+    "description": "PELIPPER is a flying transporter that carries small POKéMON and eggs inside its massive bill. This POKéMON builds its nest on steep cliffs facing the sea."
+  },
+  {
+    "name": "Koffing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "price": 68,
+    "stock": 10,
+    "description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
+  },
+  {
+    "name": "Paras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "price": 57,
+    "stock": 54,
+    "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host."
+  },
+  {
+    "name": "Smoochum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+    "price": 61,
+    "stock": 60,
+    "description": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things."
+  },
+  {
+    "name": "Chikorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+    "price": 64,
+    "stock": 64,
+    "description": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays."
+  },
+  {
+    "name": "Growlithe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "price": 70,
+    "stock": 190,
+    "description": "Very protective of its territory. It will bark and bite to repel intruders from its space."
+  },
+  {
+    "name": "Magneton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "price": 163,
+    "stock": 600,
+    "description": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up."
+  },
+  {
+    "name": "Starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "price": 182,
+    "stock": 800,
+    "description": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
+  },
+  {
+    "name": "Kadabra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "price": 140,
+    "stock": 565,
+    "description": "It emits special alpha waves from its body that induce headaches just by being close by."
+  },
+  {
+    "name": "Crobat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+    "price": 241,
+    "stock": 750,
+    "description": "It flies so si­ lently through the dark on its four wings that it may not be noticed even when nearby."
+  },
+  {
+    "name": "Dunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+    "price": 145,
+    "stock": 140,
+    "description": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground."
+  },
+  {
+    "name": "Zapdos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "price": 261,
+    "stock": 526,
+    "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts."
+  },
+  {
+    "name": "Aerodactyl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "price": 180,
+    "stock": 590,
+    "description": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs."
+  },
+  {
+    "name": "Hoothoot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+    "price": 52,
+    "stock": 212,
+    "description": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen."
+  },
+  {
+    "name": "Kakuna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "price": 72,
+    "stock": 100,
+    "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators."
+  },
+  {
+    "name": "Meganium",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+    "price": 236,
+    "stock": 1005,
+    "description": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+  },
+  {
+    "name": "Slowking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+    "price": 172,
+    "stock": 795,
+    "description": "It has incredible intellect and in­ tuition. Whatever the situation, it remains calm and collected."
+  },
+  {
+    "name": "Machamp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "price": 227,
+    "stock": 1300,
+    "description": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
+  },
+  {
+    "name": "Drowzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "price": 66,
+    "stock": 324,
+    "description": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
+  },
+  {
+    "name": "Tentacool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "price": 67,
+    "stock": 455,
+    "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid."
+  },
+  {
+    "name": "Feraligatr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+    "price": 239,
+    "stock": 888,
+    "description": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up."
+  },
+  {
+    "name": "Clefable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "price": 217,
+    "stock": 400,
+    "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people."
+  },
+  {
+    "name": "Dragonite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "price": 270,
+    "stock": 2100,
+    "description": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans."
+  },
+  {
+    "name": "Togepi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+    "price": 49,
+    "stock": 15,
+    "description": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+  },
+  {
+    "name": "Mareep",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+    "price": 56,
+    "stock": 78,
+    "description": "If static elec­ tricity builds in its body, its fleece doubles in volume. Touching it will shock you."
+  },
+  {
+    "name": "Rhydon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "price": 170,
+    "stock": 1200,
+    "description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees."
+  },
+  {
+    "name": "Marowak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "price": 149,
+    "stock": 450,
+    "description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
+  },
+  {
+    "name": "Corsola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+    "price": 144,
+    "stock": 50,
+    "description": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty."
+  },
+  {
+    "name": "Golem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "price": 223,
+    "stock": 3000,
+    "description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
+  },
+  {
+    "name": "Ampharos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+    "price": 230,
+    "stock": 615,
+    "description": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people."
+  },
+  {
+    "name": "Sentret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+    "price": 43,
+    "stock": 60,
+    "description": "A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings."
+  },
+  {
+    "name": "Dugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "price": 149,
+    "stock": 333,
+    "description": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground."
+  },
+  {
+    "name": "Muk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "price": 175,
+    "stock": 300,
+    "description": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
+  },
+  {
+    "name": "Espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+    "price": 184,
+    "stock": 265,
+    "description": "It uses the fine hair that covers its body to sense air currents and predict its ene­ my's actions."
+  },
+  {
+    "name": "Caterpie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "price": 39,
+    "stock": 29,
+    "description": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly."
+  },
+  {
+    "name": "Kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "price": 172,
+    "stock": 800,
+    "description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old."
+  },
+  {
+    "name": "Jynx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "price": 159,
+    "stock": 406,
+    "description": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+  },
+  {
+    "name": "Ralts",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+    "price": 40,
+    "stock": 66,
+    "description": "RALTS senses the emotions of people using the horns on its head. This POKéMON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition."
+  },
+  {
+    "name": "Slakoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
+    "price": 56,
+    "stock": 240,
+    "description": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POKéMON’s sole daily meal consists of just three leaves."
+  },
+  {
+    "name": "Gardevoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+    "price": 233,
+    "stock": 484,
+    "description": "GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power."
+  },
+  {
+    "name": "Quagsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+    "price": 151,
+    "stock": 750,
+    "description": "This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls."
+  },
+  {
+    "name": "Gastly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "price": 62,
+    "stock": 1,
+    "description": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice."
+  },
+  {
+    "name": "Zubat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "price": 49,
+    "stock": 75,
+    "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
+  },
+  {
+    "name": "Murkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+    "price": 81,
+    "stock": 21,
+    "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night."
+  },
+  {
+    "name": "Onix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "price": 77,
+    "stock": 2100,
+    "description": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black."
+  },
+  {
+    "name": "Venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "price": 61,
+    "stock": 300,
+    "description": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night."
+  },
+  {
+    "name": "Aipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+    "price": 72,
+    "stock": 115,
+    "description": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air."
+  },
+  {
+    "name": "Cleffa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+    "price": 44,
+    "stock": 30,
+    "description": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen."
+  },
+  {
+    "name": "Sudowoodo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+    "price": 144,
+    "stock": 380,
+    "description": "Although it always pretends to be a tree, its composi­ tion appears to be closer to a rock than a plant."
+  },
+  {
+    "name": "Silcoon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png",
+    "price": 72,
+    "stock": 100,
+    "description": "SILCOON tethers itself to a tree branch using silk to keep from falling. There,  this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole."
+  },
+  {
+    "name": "Goldeen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "price": 64,
+    "stock": 150,
+    "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen."
+  },
+  {
+    "name": "Wigglytuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "price": 196,
+    "stock": 120,
+    "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
+  },
+  {
+    "name": "Delibird",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+    "price": 116,
+    "stock": 160,
+    "description": "It carries food all day long. There are tales about lost people who were saved by the food it had."
+  },
+  {
+    "name": "Ditto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "price": 101,
+    "stock": 40,
+    "description": "It can freely recombine its own cellular structure to transform into other life-forms."
+  },
+  {
+    "name": "Heracross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+    "price": 175,
+    "stock": 540,
+    "description": "This powerful POKéMON thrusts its prized horn under its enemies’ bellies then lifts and throws them."
+  },
+  {
+    "name": "Smeargle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+    "price": 88,
+    "stock": 580,
+    "description": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory."
+  },
+  {
+    "name": "Arbok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "price": 157,
+    "stock": 650,
+    "description": "It is rumored that the ferocious warning markings on its belly differ from area to area."
+  },
+  {
+    "name": "Marill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+    "price": 88,
+    "stock": 85,
+    "description": "The tip of its tail, which con­ tains oil that is lighter than wa­ ter, lets it swim without drowning."
+  },
+  {
+    "name": "Piloswine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+    "price": 158,
+    "stock": 558,
+    "description": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly."
+  },
+  {
+    "name": "Cloyster",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "price": 184,
+    "stock": 1325,
+    "description": "CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells."
+  },
+  {
+    "name": "Jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "price": 95,
+    "stock": 55,
+    "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep."
+  },
+  {
+    "name": "Seaking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "price": 158,
+    "stock": 390,
+    "description": "In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks."
+  },
+  {
+    "name": "Larvitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+    "price": 60,
+    "stock": 720,
+    "description": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
+  },
+  {
+    "name": "Wartortle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "price": 142,
+    "stock": 225,
+    "description": "When tapped, this POKéMON will pull in its head, but its tail will still stick out a little bit."
+  },
+  {
+    "name": "Swellow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png",
+    "price": 159,
+    "stock": 198,
+    "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape."
+  },
+  {
+    "name": "Taillow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png",
+    "price": 54,
+    "stock": 23,
+    "description": "TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry."
+  },
+  {
+    "name": "Gligar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+    "price": 86,
+    "stock": 648,
+    "description": "It flies straight at its target’s face, then clamps down on the startled victim to inject poison."
+  },
+  {
+    "name": "Ponyta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "price": 82,
+    "stock": 300,
+    "description": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time."
+  },
+  {
+    "name": "Vileplume",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "price": 221,
+    "stock": 186,
+    "description": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+  },
+  {
+    "name": "Beedrill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "price": 178,
+    "stock": 295,
+    "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
+  },
+  {
+    "name": "Pidgeotto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "price": 122,
+    "stock": 300,
+    "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder."
+  },
+  {
+    "name": "Electrode",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "price": 172,
+    "stock": 666,
+    "description": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
+  },
+  {
+    "name": "Sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+    "price": 36,
+    "stock": 18,
+    "description": "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves."
+  },
+  {
+    "name": "Slowbro",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "price": 172,
+    "stock": 785,
+    "description": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps."
+  },
+  {
+    "name": "Bellossom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+    "price": 221,
+    "stock": 58,
+    "description": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
+  },
+  {
+    "name": "Marshtomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png",
+    "price": 142,
+    "stock": 280,
+    "description": "The surface of MARSHTOMP’s body is enveloped by a thin, sticky film that enables it to live on land. This POKéMON plays in mud on beaches when the ocean tide is low."
+  },
+  {
+    "name": "Venomoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "price": 158,
+    "stock": 125,
+    "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
+  },
+  {
+    "name": "Nidorina",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "price": 128,
+    "stock": 200,
+    "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting."
+  },
+  {
+    "name": "Mew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "price": 270,
+    "stock": 40,
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
+  },
+  {
+    "name": "Pidgey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "price": 50,
+    "stock": 18,
+    "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
+  },
+  {
+    "name": "Lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "price": 187,
+    "stock": 2200,
+    "description": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water."
+  },
+  {
+    "name": "Staryu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "price": 68,
+    "stock": 345,
+    "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle."
+  },
+  {
+    "name": "Rhyhorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "price": 69,
+    "stock": 1150,
+    "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
+  },
+  {
+    "name": "Gloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "price": 138,
+    "stock": 86,
+    "description": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close."
+  },
+  {
+    "name": "Charmeleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "price": 142,
+    "stock": 190,
+    "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
+  },
+  {
+    "name": "Oddish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "price": 64,
+    "stock": 54,
+    "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+  },
+  {
+    "name": "Bulbasaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "price": 64,
+    "stock": 69,
+    "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON."
+  },
+  {
+    "name": "Nidoran-m",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "price": 55,
+    "stock": 90,
+    "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
+  },
+  {
+    "name": "Arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "price": 194,
+    "stock": 1550,
+    "description": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings."
+  },
+  {
+    "name": "Rapidash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "price": 175,
+    "stock": 950,
+    "description": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it."
+  },
+  {
+    "name": "Flaaffy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+    "price": 128,
+    "stock": 133,
+    "description": "As a result of storing too much electricity, it developed patches where even downy wool won't grow."
+  },
+  {
+    "name": "Sunflora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+    "price": 149,
+    "stock": 85,
+    "description": "It converts sun­ light into energy. In the darkness after sunset, it closes its petals and becomes still."
+  },
+  {
+    "name": "Spearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "price": 52,
+    "stock": 20,
+    "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+  },
+  {
+    "name": "Azurill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+    "price": 38,
+    "stock": 20,
+    "description": "AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POKéMON managed to hurl itself a record 33 feet."
+  },
+  {
+    "name": "Ariados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+    "price": 140,
+    "stock": 335,
+    "description": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which."
+  },
+  {
+    "name": "Shedinja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
+    "price": 83,
+    "stock": 12,
+    "description": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit."
+  },
+  {
+    "name": "Nidoqueen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "price": 227,
+    "stock": 600,
+    "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves."
+  },
+  {
+    "name": "Shuckle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+    "price": 177,
+    "stock": 205,
+    "description": "The BERRIES it stores in its vase-like shell decompose and become a gooey liquid."
+  },
+  {
+    "name": "Dodrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "price": 165,
+    "stock": 852,
+    "description": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
+  },
+  {
+    "name": "Nincada",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png",
+    "price": 53,
+    "stock": 55,
+    "description": "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution."
+  },
+  {
+    "name": "Ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
+    "price": 216,
+    "stock": 550,
+    "description": "LUDICOLO begins dancing as soon as it hears cheerful, festive music. This POKéMON is said to appear when it hears the singing of children on hiking outings."
+  },
+  {
+    "name": "Parasect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "price": 142,
+    "stock": 295,
+    "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
+  },
+  {
+    "name": "Fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "price": 155,
+    "stock": 380,
+    "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
+  },
+  {
+    "name": "Noctowl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+    "price": 158,
+    "stock": 408,
+    "description": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark."
+  },
+  {
+    "name": "Hitmonchan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "price": 159,
+    "stock": 502,
+    "description": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see."
+  },
+  {
+    "name": "Seel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "price": 65,
+    "stock": 900,
+    "description": "The protruding horn on its head is very hard. It is used for bashing through thick ice."
+  },
+  {
+    "name": "Squirtle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "price": 63,
+    "stock": 90,
+    "description": "Shoots water at prey while in the water. Withdraws into its shell when in danger."
+  },
+  {
+    "name": "Furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
+    "price": 145,
+    "stock": 325,
+    "description": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed."
+  },
+  {
+    "name": "Raikou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+    "price": 261,
+    "stock": 1780,
+    "description": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+  },
+  {
+    "name": "Torchic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+    "price": 62,
+    "stock": 25,
+    "description": "TORCHIC sticks with its TRAINER, following behind with unsteady steps. This POKéMON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black."
+  },
+  {
+    "name": "Yanma",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+    "price": 78,
+    "stock": 380,
+    "description": "If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area."
+  },
+  {
+    "name": "Golbat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "price": 159,
+    "stock": 550,
+    "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
+  },
+  {
+    "name": "Poliwrath",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "price": 230,
+    "stock": 540,
+    "description": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers."
+  },
+  {
+    "name": "Poliwhirl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "price": 135,
+    "stock": 200,
+    "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
+  },
+  {
+    "name": "Venusaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "price": 236,
+    "stock": 1000,
+    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+  },
+  {
+    "name": "Shellder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "price": 61,
+    "stock": 40,
+    "description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+  },
+  {
+    "name": "Ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "price": 58,
+    "stock": 69,
+    "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
+  },
+  {
+    "name": "Qwilfish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+    "price": 88,
+    "stock": 39,
+    "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once."
+  },
+  {
+    "name": "Ninjask",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+    "price": 160,
+    "stock": 120,
+    "description": "NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this POKéMON was long believed to be invisible."
+  },
+  {
+    "name": "Nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "price": 227,
+    "stock": 620,
+    "description": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+  },
+  {
+    "name": "Wurmple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png",
+    "price": 56,
+    "stock": 36,
+    "description": "Using the spikes on its rear end,   WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping."
+  },
+  {
+    "name": "Hitmontop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+    "price": 159,
+    "stock": 480,
+    "description": "If you become enchanted by its smooth, elegant, dance-like kicks, you may get drilled hard."
+  },
+  {
+    "name": "Suicune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+    "price": 261,
+    "stock": 1870,
+    "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water."
+  },
+  {
+    "name": "Skitty",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
+    "price": 52,
+    "stock": 110,
+    "description": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy."
+  },
+  {
+    "name": "Diglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "price": 53,
+    "stock": 8,
+    "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
+  },
+  {
+    "name": "Rattata",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "price": 51,
+    "stock": 35,
+    "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+  },
+  {
+    "name": "Pichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+    "price": 41,
+    "stock": 20,
+    "description": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled."
+  },
+  {
+    "name": "Lanturn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+    "price": 161,
+    "stock": 225,
+    "description": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles."
+  },
+  {
+    "name": "Porygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "price": 79,
+    "stock": 365,
+    "description": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace."
+  },
+  {
+    "name": "Ledian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
+    "price": 137,
+    "stock": 356,
+    "description": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+  },
+  {
+    "name": "Magby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+    "price": 73,
+    "stock": 214,
+    "description": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils."
+  },
+  {
+    "name": "Hitmonlee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "price": 159,
+    "stock": 498,
+    "description": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides."
+  },
+  {
+    "name": "Magcargo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+    "price": 151,
+    "stock": 550,
+    "description": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch."
+  },
+  {
+    "name": "Zigzagoon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
+    "price": 56,
+    "stock": 175,
+    "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see."
+  },
+  {
+    "name": "Octillery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+    "price": 168,
+    "stock": 285,
+    "description": "It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head."
+  },
+  {
+    "name": "Mightyena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+    "price": 147,
+    "stock": 370,
+    "description": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs."
+  },
+  {
+    "name": "Articuno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "price": 261,
+    "stock": 554,
+    "description": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains."
+  },
+  {
+    "name": "Horsea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "price": 59,
+    "stock": 80,
+    "description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
+  },
+  {
+    "name": "Bellsprout",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "price": 60,
+    "stock": 40,
+    "description": "Even though its body is extremely skinny, it is blindingly fast when catching its prey."
+  },
+  {
+    "name": "Entei",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+    "price": 261,
+    "stock": 1980,
+    "description": "Volcanoes erupt when it barks. Un­ able to restrain its extreme power, it races headlong around the land."
+  },
+  {
+    "name": "Ursaring",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+    "price": 175,
+    "stock": 1258,
+    "description": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES."
+  },
+  {
+    "name": "Raichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "price": 218,
+    "stock": 300,
+    "description": "Its tail discharges electricity into the ground, protecting it from getting shocked."
+  },
+  {
+    "name": "Butterfree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "price": 178,
+    "stock": 320,
+    "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air."
+  },
+  {
+    "name": "Abra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "price": 62,
+    "stock": 195,
+    "description": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety."
+  },
+  {
+    "name": "Tentacruel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "price": 180,
+    "stock": 550,
+    "description": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
+  },
+  {
+    "name": "Scizor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+    "price": 175,
+    "stock": 1180,
+    "description": "It swings its eye- patterned pincers up to scare its foes. This makes it look like it has three heads."
+  },
+  {
+    "name": "Linoone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
+    "price": 147,
+    "stock": 325,
+    "description": "LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads."
+  },
+  {
+    "name": "Kingdra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+    "price": 243,
+    "stock": 1520,
+    "description": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning."
+  },
+  {
+    "name": "Granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+    "price": 158,
+    "stock": 487,
+    "description": "It is actually timid and easily spooked. If at­ tacked, it flails about to fend off its attacker."
+  },
+  {
+    "name": "Xatu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+    "price": 165,
+    "stock": 150,
+    "description": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+  },
+  {
+    "name": "Ninetales",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "price": 177,
+    "stock": 199,
+    "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
+  },
+  {
+    "name": "Haunter",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "price": 142,
+    "stock": 1,
+    "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension."
+  },
+  {
+    "name": "Machoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "price": 142,
+    "stock": 705,
+    "description": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions."
+  },
+  {
+    "name": "Flareon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "price": 184,
+    "stock": 250,
+    "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees."
+  },
+  {
+    "name": "Wingull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
+    "price": 54,
+    "stock": 95,
+    "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky."
+  },
+  {
+    "name": "Politoed",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+    "price": 225,
+    "stock": 339,
+    "description": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather­ ing from far and wide."
+  },
+  {
+    "name": "Raticate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "price": 145,
+    "stock": 185,
+    "description": "It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off."
+  },
+  {
+    "name": "Farfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "price": 132,
+    "stock": 150,
+    "description": "The sprig of green onions it holds is its weapon. It is used much like a metal sword."
+  },
+  {
+    "name": "Kingler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "price": 166,
+    "stock": 600,
+    "description": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use."
+  },
+  {
+    "name": "Loudred",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
+    "price": 126,
+    "stock": 405,
+    "description": "LOUDRED’s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POKéMON’s round ears serve as loudspeakers."
+  },
+  {
+    "name": "Cascoon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
+    "price": 72,
+    "stock": 115,
+    "description": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POKéMON prepares for its evolution inside the cocoon."
+  },
+  {
+    "name": "Misdreavus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+    "price": 87,
+    "stock": 10,
+    "description": "It likes playing mischievous tricks such as screaming and wailing to startle people at night."
+  },
+  {
+    "name": "Blaziken",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+    "price": 239,
+    "stock": 520,
+    "description": "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON’s wrists burn."
+  },
+  {
+    "name": "Swinub",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+    "price": 50,
+    "stock": 65,
+    "description": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+  },
+  {
+    "name": "Beautifly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
+    "price": 178,
+    "stock": 284,
+    "description": "BEAUTIFLY’s favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen."
+  },
+  {
+    "name": "Exeggutor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "price": 186,
+    "stock": 1200,
+    "description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
+  },
+  {
+    "name": "Golduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "price": 175,
+    "stock": 766,
+    "description": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa."
+  },
+  {
+    "name": "Jolteon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "price": 184,
+    "stock": 245,
+    "description": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts."
+  },
+  {
+    "name": "Psyduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "price": 64,
+    "stock": 196,
+    "description": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers."
+  },
+  {
+    "name": "Nosepass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
+    "price": 75,
+    "stock": 970,
+    "description": "NOSEPASS’s magnetic nose is always pointed to the north. If two of these POKéMON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another."
+  },
+  {
+    "name": "Sandslash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "price": 158,
+    "stock": 295,
+    "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
+  },
+  {
+    "name": "Charizard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "price": 240,
+    "stock": 905,
+    "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
+  },
+  {
+    "name": "Blastoise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "price": 239,
+    "stock": 855,
+    "description": "It deliberately makes itself heavy so it can with­ stand the recoil of the water jets it fires."
+  },
+  {
+    "name": "Dratini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "price": 60,
+    "stock": 33,
+    "description": "Long considered a mythical POKéMON until recently when a small colony was found living underwater."
+  },
+  {
+    "name": "Porygon2",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+    "price": 180,
+    "stock": 325,
+    "description": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though."
+  },
+  {
+    "name": "Makuhita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
+    "price": 47,
+    "stock": 864,
+    "description": "MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POKéMON stores more energy in its body for evolving."
+  },
+  {
+    "name": "Exploud",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
+    "price": 221,
+    "stock": 840,
+    "description": "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow."
+  },
+  {
+    "name": "Unown",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+    "price": 118,
+    "stock": 50,
+    "description": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+  },
+  {
+    "name": "Vulpix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "price": 60,
+    "stock": 99,
+    "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
+  },
+  {
+    "name": "Sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "price": 60,
+    "stock": 120,
+    "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food."
+  },
+  {
+    "name": "Scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "price": 100,
+    "stock": 560,
+    "description": "With ninja-like agility and speed, it can create the illusion that there is more than one."
+  },
+  {
+    "name": "Machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "price": 61,
+    "stock": 195,
+    "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
+  },
+  {
+    "name": "Omastar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "price": 173,
+    "stock": 350,
+    "description": "Apparently, it cracked SHELLDER's shell with its sharp fangs and sucked out the insides."
+  },
+  {
+    "name": "Mantine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+    "price": 170,
+    "stock": 2200,
+    "description": "As it majestically swims, it doesn't care if REMORAID attach to it for scavenging its leftovers."
+  },
+  {
+    "name": "Ho-oh",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+    "price": 306,
+    "stock": 1990,
+    "description": "Legends claim this POKéMON flies the world's skies con­ tinuously on its magnificent seven- colored wings."
+  },
+  {
+    "name": "Stantler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+    "price": 163,
+    "stock": 712,
+    "description": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand."
+  },
+  {
+    "name": "Pikachu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "price": 112,
+    "stock": 60,
+    "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms."
+  },
+  {
+    "name": "Pinsir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "price": 175,
+    "stock": 550,
+    "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard."
+  },
+  {
+    "name": "Primeape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "price": 159,
+    "stock": 320,
+    "description": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught."
+  },
+  {
+    "name": "Meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "price": 58,
+    "stock": 42,
+    "description": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
+  },
+  {
+    "name": "Persian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "price": 154,
+    "stock": 320,
+    "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+  },
+  {
+    "name": "Weezing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "price": 172,
+    "stock": 95,
+    "description": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years."
+  },
+  {
+    "name": "Vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "price": 184,
+    "stock": 290,
+    "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
+  },
+  {
+    "name": "Tyranitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+    "price": 270,
+    "stock": 2020,
+    "description": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies."
+  },
+  {
+    "name": "Snubbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+    "price": 60,
+    "stock": 78,
+    "description": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women."
+  },
+  {
+    "name": "Lugia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+    "price": 306,
+    "stock": 2160,
+    "description": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong."
+  },
+  {
+    "name": "Elekid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+    "price": 72,
+    "stock": 235,
+    "description": "It generates electricity by whirling its arms. However, it can’t store the energy it makes."
+  },
+  {
+    "name": "Alakazam",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "price": 225,
+    "stock": 480,
+    "description": "Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000."
+  },
+  {
+    "name": "Electabuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "price": 172,
+    "stock": 300,
+    "description": "Normally found near power plants, they can wander away and cause major blackouts in cities."
+  },
+  {
+    "name": "Hypno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "price": 169,
+    "stock": 756,
+    "description": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
+  },
+  {
+    "name": "Steelix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+    "price": 179,
+    "stock": 4000,
+    "description": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond."
+  },
+  {
+    "name": "Clefairy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "price": 113,
+    "stock": 75,
+    "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
+  },
+  {
+    "name": "Cubone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "price": 64,
+    "stock": 65,
+    "description": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face."
+  },
+  {
+    "name": "Exeggcute",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "price": 65,
+    "stock": 25,
+    "description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
+  },
+  {
+    "name": "Grimer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "price": 65,
+    "stock": 300,
+    "description": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories."
+  },
+  {
+    "name": "Blissey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+    "price": 608,
+    "stock": 468,
+    "description": "Anyone who takes even one bite of BLISSEY's egg be­ comes unfailingly caring and pleas­ ant to everyone."
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "price": 63,
+    "stock": 360,
+    "description": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack."
+  },
+  {
+    "name": "Lickitung",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "price": 77,
+    "stock": 655,
+    "description": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
+  },
+  {
+    "name": "Mewtwo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "price": 306,
+    "stock": 1220,
+    "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments."
+  },
+  {
+    "name": "Surskit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png",
+    "price": 54,
+    "stock": 17,
+    "description": "From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes."
+  },
+  {
+    "name": "Masquerain",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png",
+    "price": 159,
+    "stock": 36,
+    "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter."
+  },
+  {
+    "name": "Hoppip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+    "price": 50,
+    "stock": 5,
+    "description": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though."
+  },
+  {
+    "name": "Cyndaquil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+    "price": 62,
+    "stock": 79,
+    "description": "It is timid, and always curls it­ self up in a ball. If attacked, it flares up its back for protection."
+  },
+  {
+    "name": "Mr-mime",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "price": 161,
+    "stock": 545,
+    "description": "If interrupted while it is miming, it will slap around the offender with its broad hands."
+  },
+  {
+    "name": "Grovyle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
+    "price": 142,
+    "stock": 216,
+    "description": "The leaves growing out of GROVYLE’s body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles."
+  },
+  {
+    "name": "Shiftry",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png",
+    "price": 216,
+    "stock": 596,
+    "description": "SHIFTRY is a mysterious POKéMON that is said to live atop towering trees  dating back over a thousand years. It creates terrific windstorms with the fans it holds."
+  },
+  {
+    "name": "Charmander",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "price": 62,
+    "stock": 85,
+    "description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
+  },
+  {
+    "name": "Houndoom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+    "price": 175,
+    "stock": 350,
+    "description": "If you are burned by the flames it shoots from its mouth, the pain will never go away."
+  },
+  {
+    "name": "Poochyena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
+    "price": 56,
+    "stock": 136,
+    "description": "At first sight, POOCHYENA takes a bite at anything that moves. This POKéMON chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back."
+  },
+  {
+    "name": "Lombre",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
+    "price": 119,
+    "stock": 325,
+    "description": "LOMBRE is nocturnal - it will get active after dusk. It is also a mischief-maker. When this POKéMON spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation."
+  },
+  {
+    "name": "Snorlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "price": 189,
+    "stock": 4600,
+    "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
+  },
+  {
+    "name": "Mudkip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+    "price": 62,
+    "stock": 76,
+    "description": "The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes."
+  },
+  {
+    "name": "Swampert",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+    "price": 241,
+    "stock": 819,
+    "description": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water."
+  },
+  {
+    "name": "Teddiursa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+    "price": 66,
+    "stock": 88,
+    "description": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey."
+  },
+  {
+    "name": "Whismur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
+    "price": 48,
+    "stock": 163,
+    "description": "Normally, WHISMUR’s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume."
+  },
+  {
+    "name": "Umbreon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+    "price": 184,
+    "stock": 270,
+    "description": "When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores."
+  },
+  {
+    "name": "Chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "price": 395,
+    "stock": 346,
+    "description": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it."
+  },
+  {
+    "name": "Vigoroth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png",
+    "price": 154,
+    "stock": 465,
+    "description": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This POKéMON’s stress level rises if it can’t be moving constantly."
+  },
+  {
+    "name": "Lotad",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
+    "price": 44,
+    "stock": 26,
+    "description": "LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this POKéMON travels on land in search of clean water."
+  },
+  {
+    "name": "Sceptile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+    "price": 239,
+    "stock": 522,
+    "description": "The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind."
+  },
+  {
+    "name": "Wooper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+    "price": 42,
+    "stock": 85,
+    "description": "This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside."
+  },
+  {
+    "name": "Geodude",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "price": 60,
+    "stock": 200,
+    "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
+  },
+  {
+    "name": "Kirlia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
+    "price": 97,
+    "stock": 202,
+    "description": "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain."
+  },
+  {
+    "name": "Forretress",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+    "price": 163,
+    "stock": 1258,
+    "description": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery."
+  },
+  {
+    "name": "Gyarados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "price": 189,
+    "stock": 2350,
+    "description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+  },
+  {
+    "name": "Sneasel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+    "price": 86,
+    "stock": 280,
+    "description": "Its paws conceal sharp claws. If attacked, it sud­ denly extends the claws and startles its enemy."
+  },
+  {
+    "name": "Skarmory",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+    "price": 163,
+    "stock": 505,
+    "description": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky."
+  },
+  {
+    "name": "Krabby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "price": 65,
+    "stock": 65,
+    "description": "Its pincers are not only powerful weapons, they are used for balance when walking sideways."
+  },
+  {
+    "name": "Slugma",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+    "price": 50,
+    "stock": 350,
+    "description": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden."
+  },
+  {
+    "name": "Kabutops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "price": 173,
+    "stock": 405,
+    "description": "Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids."
+  },
+  {
+    "name": "Breloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
+    "price": 161,
+    "stock": 392,
+    "description": "BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This POKéMON’s fighting technique puts boxers to shame."
+  },
+  {
+    "name": "Houndour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+    "price": 66,
+    "stock": 108,
+    "description": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey."
+  },
+  {
+    "name": "Togetic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+    "price": 142,
+    "stock": 32,
+    "description": "They say that it will appear before kindhearted, car­ ing people and shower them with happiness."
+  },
+  {
+    "name": "Mankey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "price": 61,
+    "stock": 280,
+    "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant."
+  },
+  {
+    "name": "Miltank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+    "price": 172,
+    "stock": 755,
+    "description": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary."
+  },
+  {
+    "name": "Slaking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png",
+    "price": 252,
+    "stock": 1305,
+    "description": "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot."
+  },
+  {
+    "name": "Tangela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "price": 87,
+    "stock": 350,
+    "description": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks."
+  },
+  {
+    "name": "Gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "price": 225,
+    "stock": 405,
+    "description": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright."
+  },
+  {
+    "name": "Hariyama",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+    "price": 166,
+    "stock": 2538,
+    "description": "HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POKéMON’s powerful, openhanded, straight-arm punches could snap a telephone pole in two."
+  }
+]
