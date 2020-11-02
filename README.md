@@ -2,6 +2,24 @@
 
 Hey all. This is an assignment repository for people to have a stab at in their own PD time. The idea is quite simple, we have some pokemon in our store and we want a basket of the pokemon that we wish to purchase. A basket is made up of any number of pokemons, and we can multiple of the same pokemon. It's best to approach each stage in order, and commit as you go. You can fork or branch - whatever your poison.
 
+### Getting started
+
+Clone the repository and then install all of the required Node modules:
+
+```
+npm install
+```
+
+And use the NPM script to run the development environment:
+
+```
+npm start
+```
+
+You can then either work on a branch, or a fork of the repository and then create a merge request.
+
+### Designs
+
 Figma designs for all parts are available here: https://www.figma.com/file/g4wXl7qfVaA60nS0z1QPrU/Dev-Challenge?node-id=0%3A1
 
 ## Part 1: Listings
